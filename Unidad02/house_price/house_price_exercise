@@ -1,0 +1,16 @@
+# Dataset: Casas en Toluca
+
+## Descripción
+Este conjunto de datos contiene información sobre viviendas en Toluca, incluyendo características como superficie, número de habitaciones, baños y precio.
+
+## Columnas
+- **Unnamed: 0:** Índice original del registro.
+- **Unnamed: 0.1:** Segundo índice original.
+- **...:** Las demás columnas del conjunto de datos.
+
+## Datos
+
+| Columna 1 | Columna 2 | Columna 3 |
+|---|---|---|
+| Valor 1 | Valor 2 | Valor 3 |
+| Valor 1 | Valor 2 | Valor 3 |
